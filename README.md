@@ -1,1 +1,2 @@
 # gsoinvsystem
+# gsoinventorysystem.github.io
