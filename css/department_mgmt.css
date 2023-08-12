@@ -1,0 +1,29 @@
+
+
+
+#addDeptButton{  
+    box-shadow:2px 2px 0px 0px #000000 ;
+}
+
+#addDeptButton:hover {
+    box-shadow:2px 2px 0px 0px #ff4d4d;
+}
+
+.welcomePageBg{
+    background-image: url('../image/welcomeBg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+        
+#logoutModal{
+    display: none;
+}   
+
+#logOutButton{
+    box-shadow: 2px 2px 0px 0px #000000;
+}
+#logOutButton:hover{
+    box-shadow:2px 2px 0px 0px #ff4d4d;
+}
+
+

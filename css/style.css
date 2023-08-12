@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.registerRight{
+  background-image: url('../image/registerbg2.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#registerButton{
+    box-shadow:4px 6px 0px 0px #ff0000 ;
+}
+
+
+#logOutButton{
+    box-shadow: 2px 2px 0px 0px #000000;
+}
+#logOutButton:hover{
+    box-shadow:2px 2px 0px 0px #ff4d4d;
+}

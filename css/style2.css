@@ -1,0 +1,16 @@
+.loginRight{
+  background-image: url('../image/bg2.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ 
+}
+
+#btnLog{
+  background-color: red;
+  
+
+}
+
+.btnRegister{
+  background-color: red;
+}
